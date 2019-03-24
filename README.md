@@ -1,19 +1,55 @@
-<html>
-<head>
-  <title>Evernote Export</title>
-  <basefont face="Segoe UI" size="2" />
-  <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-  <meta name="exporter-version" content="Evernote Windows/308292 (en-US, DDL); Windows/10.0.0 (Win64);"/>
-  <style>
-    body, td {
-      font-family: Segoe UI;
-      font-size: 10pt;
-    }
-  </style>
-</head>
-<body>
-<a name="449"/>
+S.No.	Component	quantity	Unit price	remark
+1.		5mm red led (ever ready)	2000		2 packet
+2.		3mm  red led (local)	1000		1 packet
+3.		3mm green led (local)	1000		1 packet
+4.		16x2 LCD	11		Carry bag
+5.					
+6.					
+7.		40 pin ic base	221		3 pack (55) & open
+8.		16 pin ic base	200		1 pack
+9.		18 pin ic base	50		1 pack
+10.		8 pin ic base	200		
+11.					
+12.		Relay 12V 7A	48		Box 
+13.		Relay 12V 5A	4		Box 
+14.		Relay 5V 7A	16+1		Box
+15.		Relay 5V 5A	5		Box 
+16.		Relay 6V 7A	1		Box
+17.		Relay 12V 1A	2		Box
+18.					
+19.		Capacitor 1uf 50V	86		
+20.		Capacitor 1uf 63V	3		
+21.		Capacitor 1uf 160V	1		
+22.		Capacitor 100uf 25V	87		
+23.		Capacitor 10uf 50V	73		
+24.		Capacitor 470uf 25V	23		
+25.		Capacitor 470uf 50V	8		
+26.					
+27.		Transistor BC548	235		
+28.					
+29.		1N4007	300		
+30.					
+31.					
+32.					
+33.		Female header 10mm	42		
+34.		Male header 10mm	32		
+35.		Male angle header 10mm	31		
+36.		Male header 15mm	7		
+37.					
+38.		1k	130		
+39.		330	200		
+40.		470	200		
+41.		10k	200		
+42.		220	200		
+43.		100	200		
+44.		47k	30		
+45.					
+46.		BT136 (trac)	20		
+47.					
+48.		7805	73		
+49.					
+50.		10k pullup 9pin	100		
+51.		10k preset	200		
+52.					
+53.					
 
-<div>
-<span><div><div style="text-align: center;"><font style="font-size: 24pt;"><span style="font-size: 24pt; font-weight: bold; text-decoration: underline;">GPIO</span></font></div><h3 style="font-size: 18px; letter-spacing: 1px; margin-bottom: 3px; margin-top: 32px; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px;"><span style="font-size: 18px; letter-spacing: 1px; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; color: rgb(230, 126, 34); font-family: &quot;Typonine Sans Regular&quot;, &quot;Lucida Grande&quot;, Lucida, Verdana, sans-serif; font-variant-caps: normal; font-variant-ligatures: normal; line-height: 25px;">Description</span></h3><div style="font-size: 16px; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px;"><div style="font-size: 16px; letter-spacing: 0.5px; margin-top: 1em; margin-bottom: 1em;"><span style="font-size: 16px; letter-spacing: 0.5px; color: rgb(55, 65, 70); font-family: &quot;Typonine Sans Light&quot;, &quot;Lucida Grande&quot;, Lucida, Verdana, sans-serif; font-variant-caps: normal; font-variant-ligatures: normal; line-height: 22px;-en-paragraph:true;">Configures the specified pin to behave either as an input or an output. See the description of (</span><a href="http://arduino.cc/en/Tutorial/DigitalPins" style="font-size: 16px; letter-spacing: 0.5px; cursor: pointer; font-family: &quot;Typonine Sans Light&quot;, &quot;Lucida Grande&quot;, Lucida, Verdana, sans-serif; font-variant-caps: normal; font-variant-ligatures: normal; line-height: 22px; color: rgb(0, 151, 157);-en-paragraph:true;">digital pins</a><span style="font-size: 16px; letter-spacing: 0.5px; color: rgb(55, 65, 70); font-family: &quot;Typonine Sans Light&quot;, &quot;Lucida Grande&quot;, Lucida, Verdana, sans-serif; font-variant-caps: normal; font-variant-ligatures: normal; line-height: 22px;-en-paragraph:true;">) for details on the functionality of the pins.</span></div></div><h5 style="font-size: 16px; margin: 15px 0px 7px; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px;"><span style="font-size: 16px; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px;"><br/></span></h5><h5 style="font-size: 16px; margin: 15px 0px 7px; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px;"><span style="font-size: 16px; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; color: rgb(55, 65, 70); font-family: &quot;Typonine Sans Light&quot;, &quot;Lucida Grande&quot;, Lucida, Verdana, sans-serif; font-variant-caps: normal; font-variant-ligatures: normal;">Digital I/O</span></h5><div><span style="font-size: 12pt;"><font style="color: rgb(167, 69, 0);">pinDefine</font>( )</span></div><div><span style="font-size: 12pt;"><font style="color: rgb(167, 69, 0);">digitalWrite</font>( )</span></div><div><span style="font-size: 12pt;"><font style="color: rgb(167, 69, 0);">digitalRead</font>( )</span></div><div><font style="font-size: 12pt;"><br/></font></div><div><font style="font-size: 12pt;"><br/></font></div><div style="box-sizing: border-box; padding: 8px; font-family: Monaco, Menlo, Consolas, &quot;Courier New&quot;, monospace; font-size: 12px; color: rgb(51, 51, 51); border-radius: 4px; background-color: rgb(251, 250, 248); border: 1px solid rgba(0, 0, 0, 0.15);-en-codeblock:true;"><div style="text-align: left;"><font style="font-size: 18pt;">pinDefine()</font></div><div><font style="font-size: 16pt; color: rgb(222, 87, 0);"><br/></font></div><div><font style="font-size: 16pt; color: rgb(222, 87, 0);">Syntex:</font></div><div><font style="font-size: 12pt;">pinDefine(pin, mode);</font></div><div><font style="font-size: 12pt;"><b><br/></b></font></div><div><font style="font-size: 12pt;"><b>Parameters</b></font></div><div><font style="font-size: 12pt;"><b><br/></b></font></div><div><font style="font-size: 12pt;"><b>pin:</b> portA0 - portA7</font></div><div><font style="font-size: 12pt;">     </font><font style="font-size: 12pt;">portB0 - portB7</font></div><div><font style="font-size: 12pt;">     portC0 - portC7</font></div><div><font style="font-size: 12pt;">     portD0 - portD7</font></div><div><font style="font-size: 12pt;"><br/></font></div><div><font style="font-size: 12pt;"><b>mode:</b> INPUT, OUTPUT</font></div></div><div><br/></div><div><br/></div><div><br/></div><div style="box-sizing: border-box; padding: 8px; font-family: Monaco, Menlo, Consolas, &quot;Courier New&quot;, monospace; font-size: 12px; color: rgb(51, 51, 51); border-radius: 4px; background-color: rgb(251, 250, 248); border: 1px solid rgba(0, 0, 0, 0.15);-en-codeblock:true;"><div><font style="font-size: 18pt;">digitalWrite()</font></div><div><font style="font-size: 18pt;"><br/></font></div><div><font style="font-size: 16pt; color: rgb(222, 87, 0);">Syntex:</font></div><div><font style="font-size: 12pt;">digitalWrite(pin, state);</font></div><div><font style="font-size: 12pt;"><br/></font></div><div><span style="font-size: 12pt; color: rgb(51, 51, 51); font-family: Monaco;">Parameters</span></div><div><span style="font-size: 12pt; color: rgb(51, 51, 51); font-family: Monaco;"><br/></span></div><div><font style="font-size: 12pt;"><b>pin:</b> portA0 - portA7</font></div><div><font style="font-size: 12pt;">     portB0 - portB7</font></div><div><font style="font-size: 12pt;">     portC0 - portC7</font></div><div><font style="font-size: 12pt;">     portD0 - portD7</font></div><div><span style="font-size: 12pt; color: rgb(51, 51, 51); font-family: Monaco;"><br/></span></div><div><span style="font-size: 12pt; color: rgb(51, 51, 51); font-family: Monaco;"><b>state:</b> HIGH, LOW</span></div></div><div><font face="Cambria Math" style="font-size: 12pt;"><br/></font></div><div><font face="Cambria Math" style="font-size: 12pt;"><br/></font></div><div><font face="Cambria Math" style="font-size: 12pt;"><br/></font></div><div style="box-sizing: border-box; padding: 8px; font-family: Monaco, Menlo, Consolas, &quot;Courier New&quot;, monospace; font-size: 12px; color: rgb(51, 51, 51); border-radius: 4px; background-color: rgb(251, 250, 248); border: 1px solid rgba(0, 0, 0, 0.15);-en-codeblock:true;"><div><font style="font-size: 18pt;">digitalRead()</font></div><div><font style="font-size: 18pt;"><br/></font></div><div><font color="#DE5700" style="font-size: 16pt;">Syntex:</font></div><div><font style="font-size: 12pt;">digitalRead(pin);</font></div><div><br/></div><div><font style="font-size: 12pt;"><b>Parameters</b></font></div><div><font style="font-size: 12pt;"><br/></font></div><div><font style="font-size: 12pt;"><b>pin:</b> portA0 - portA7</font></div><div><font style="font-size: 12pt;">     portB0 - portB7</font></div><div><font style="font-size: 12pt;">     portC0 - portC7</font></div><div><font style="font-size: 12pt;">     portD0 - portD7</font></div></div><div><font style="font-size: 12pt;"><br/></font></div><div><font style="font-size: 12pt;"><br/></font></div><div style="box-sizing: border-box; padding: 8px; font-family: Monaco, Menlo, Consolas, &quot;Courier New&quot;, monospace; font-size: 12px; color: rgb(51, 51, 51); border-radius: 4px; background-color: rgb(251, 250, 248); border: 1px solid rgba(0, 0, 0, 0.15);-en-codeblock:true;"><div><font color="#DE5700" style="font-size: 16pt;">Example Code</font></div><div><font style="font-size: 12pt;">The code makes the digital pin portA0 an OUTPUT and toggles it by alternating between HIGH and LOW at one second pace.</font></div><div><br/></div><div><br/></div><div><font style="font-size: 12pt;"><font color="#147191">#define</font> LED portA0</font></div><div><font style="font-size: 12pt;"><br/></font></div><div><font style="font-size: 12pt;"><font color="#147191">void</font> <font color="#A74500">main</font>()</font></div><div><font style="font-size: 12pt;">{</font></div><div><font style="font-size: 12pt;"><font><font> </font> <font color="#A74500">pinDefine</font>(LED, OUTPUT);   </font>// sets the digital pin</font> <font style="font-size: 12pt;">portA0 </font><font style="font-size: 12pt;">as output</font></div><div><font style="font-size: 12pt;">  </font></div><div><font style="font-size: 12pt;">  <font color="#A74500">while</font>(1)</font></div><div><font style="font-size: 12pt;">    {</font></div><div><font><font style="font-size: 12pt;">       </font><font style="font-size: 12pt;"><font color="#A74500">digitalWrite</font>(LED, HIGH);  </font></font><font style="font-size: 12pt;">//</font> <font style="font-size: 12pt;"><font>sets the digital pin </font>portA0 <font>on</font></font></div><div><font style="font-size: 12pt;"><font>       <font color="#A74500">Delay_ms</font>(1000);           </font>// waits for a second</font></div><div><font style="font-size: 12pt;"><font><font>       <font color="#A74500">digitalWrite</font>(LED, LOW);   </font>// sets the digital pin</font> portA0 <font>off</font></font></div><div><font style="font-size: 12pt;"><font>       </font><font><font color="#A74500">Delay_ms</font>(1000);           </font>// waits for a second</font></div><div><font style="font-size: 12pt;">    }</font></div><div><font style="font-size: 12pt;">}</font></div></div><div><br/></div><div><br/></div><div style="box-sizing: border-box; padding: 8px; font-family: Monaco, Menlo, Consolas, &quot;Courier New&quot;, monospace; font-size: 12px; color: rgb(51, 51, 51); border-radius: 4px; background-color: rgb(251, 250, 248); border: 1px solid rgba(0, 0, 0, 0.15);-en-codeblock:true;"><div><font color="#DE5700" style="font-size: 16pt;">Example Code</font></div><div><font style="font-size: 12pt;">Sets pin portA0 to the same value as pin portA7, declared as an input.</font></div><div><font style="font-size: 12pt;"><br/></font></div><div><font style="font-size: 12pt;"><br/></font></div><div><font style="font-size: 12pt;"><font color="#147191">#define</font> LED portA0</font></div><div><font style="font-size: 12pt;"><font color="#147191">#define</font> switch portA7</font></div><div><font style="font-size: 12pt;"><br/></font></div><div><font style="font-size: 12pt;"><font color="#147191">int</font> switch_status = 0;</font></div><div><font style="font-size: 12pt;"><br/></font></div><div><font style="font-size: 12pt;"><font color="#147191">void</font> <font color="#A74500">main</font>()</font></div><div><font style="font-size: 12pt;">{</font></div><div><font style="font-size: 12pt;">  <font color="#A74500">pinDefine</font>(LED, OUTPUT);    // sets the digital pin po</font><font style="font-size: 12pt;">rtA0 as outpu</font><font style="font-size: 12pt;">t</font></div><div><font style="font-size: 12pt;"><font><font>  </font><font color="#A74500">pinDefine</font>(</font>switch<font>, INPUT);  // sets the digital pin portA7 as input</font></font></div><div><font style="font-size: 12pt;">  </font></div><div><font style="font-size: 12pt;">  <font color="#A74500">while</font>(1)</font></div><div><font style="font-size: 12pt;">    {</font></div><div><font style="font-size: 12pt;">       </font><font style="font-size: 12pt;">switch_status = <font color="#A74500">digitalRead</font><font>(</font><font>switch</font><font>);  // read input pin</font></font></div><div><font style="font-size: 12pt;"><font>       </font></font><font style="font-size: 12pt;"><font color="#A74500">digitalWrite</font>(LED, </font><font style="font-size: 12pt;">switch_status</font><font style="font-size: 12pt;">);     </font><font style="font-size: 12pt;">// sets the LED to the switch value</font></div><div><font style="font-size: 12pt;">    }</font></div><div><font style="font-size: 12pt;">}</font></div></div><div><br/></div><div><br/></div><div><br/></div><div><br/></div></div><div><br/></div></span>
-</div></body></html>
